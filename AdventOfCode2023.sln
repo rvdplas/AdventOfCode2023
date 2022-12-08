@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode.Code1", "AdventOfCode.Code1\AdventOfCode.Code1.csproj", "{3520E34B-BB5F-4B1C-9852-8DD12FB27FC6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdventOfCode.Code1", "AdventOfCode.Code1\AdventOfCode.Code1.csproj", "{3520E34B-BB5F-4B1C-9852-8DD12FB27FC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode.Code2", "AdventOfCode.Code2\AdventOfCode.Code2.csproj", "{AD129D4D-D731-42E1-8932-364A76370F2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdventOfCode.Code2", "AdventOfCode.Code2\AdventOfCode.Code2.csproj", "{AD129D4D-D731-42E1-8932-364A76370F2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode.Code3", "AdventOfCode.Code3\AdventOfCode.Code3.csproj", "{6A421B44-46DF-4F25-8352-A671A40CC321}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdventOfCode.Code3", "AdventOfCode.Code3\AdventOfCode.Code3.csproj", "{6A421B44-46DF-4F25-8352-A671A40CC321}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode.Code4", "AdventOfCode.Code4\AdventOfCode.Code4.csproj", "{3B1AD579-7FF8-40C6-8693-EF8DE99A5B7F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdventOfCode.Code4", "AdventOfCode.Code4\AdventOfCode.Code4.csproj", "{3B1AD579-7FF8-40C6-8693-EF8DE99A5B7F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode.Code5", "AdventOfCode.Code5\AdventOfCode.Code5.csproj", "{B8E86E6F-6A55-48CD-89CB-4C98B15CBE44}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdventOfCode.Code5", "AdventOfCode.Code5\AdventOfCode.Code5.csproj", "{B8E86E6F-6A55-48CD-89CB-4C98B15CBE44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode.Code6", "AdventOfCode.Code6\AdventOfCode.Code6.csproj", "{1B19F516-9A92-4827-9F16-001ED6C75893}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdventOfCode.Code6", "AdventOfCode.Code6\AdventOfCode.Code6.csproj", "{1B19F516-9A92-4827-9F16-001ED6C75893}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode.Code7", "AdventOfCode.Code7\AdventOfCode.Code7.csproj", "{2263B777-6A7D-4E3C-AF1A-9405BD8217B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdventOfCode.Code7", "AdventOfCode.Code7\AdventOfCode.Code7.csproj", "{2263B777-6A7D-4E3C-AF1A-9405BD8217B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventOfCode.Code8", "AdventOfCode.Code8\AdventOfCode.Code8.csproj", "{CFDEDA7F-D99A-42D4-968C-48AE7C0B89B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{2263B777-6A7D-4E3C-AF1A-9405BD8217B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2263B777-6A7D-4E3C-AF1A-9405BD8217B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2263B777-6A7D-4E3C-AF1A-9405BD8217B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFDEDA7F-D99A-42D4-968C-48AE7C0B89B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFDEDA7F-D99A-42D4-968C-48AE7C0B89B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFDEDA7F-D99A-42D4-968C-48AE7C0B89B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFDEDA7F-D99A-42D4-968C-48AE7C0B89B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
